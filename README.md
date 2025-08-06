@@ -1,0 +1,3 @@
+# Personal Portfolio Website 💻
+
+Created an interactive and fully responsive portfolio website in Framer to showcase a diverse range of programming and design projects. Focused on blending front-end development skills with user-centered design principles to craft a clean, minimal, and visually engaging experience. Incorporated smooth navigation, responsive layouts, and interactive elements to highlight key projects, including web applications and branding work. The site serves as both a personal brand platform and a curated space to demonstrate creative thinking, technical ability, and a passion for building thoughtful digital experiences.
